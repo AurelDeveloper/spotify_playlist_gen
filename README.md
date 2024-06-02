@@ -16,7 +16,7 @@ This Python script uses the Spotipy library to interact with the Spotify Web API
    ```bash
    SPOTIPY_CLIENT_ID='YourSpotifyClientId'
    SPOTIPY_CLIENT_SECRET='YourSpotifyClientSecret'
-   SPOTIPY_REDIRECT_URI='YourRedirectUri'
+   SPOTIPY_REDIRECT_URI='http://localhost:3000'
    ```
    Replace `YourSpotifyClientId`, `YourSpotifyClientSecret`, and `YourRedirectUri` with your own Spotify API credentials.
 
