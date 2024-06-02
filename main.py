@@ -14,7 +14,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     scope="playlist-modify-public user-library-read"
 ))
 
-keywords = ["uk drill", "uk rap", "uk drill rap", "uk drill drip"]
+keywords = ["rock", "jazz"]
 all_playlists = []
 
 for keyword in keywords:
