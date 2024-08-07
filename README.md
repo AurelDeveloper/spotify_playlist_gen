@@ -1,4 +1,4 @@
-### README for Spotify Playlist Script
+### Spotify Playlist Script
 
 This Python script uses the Spotipy library to interact with the Spotify Web API. It searches Spotify for playlists containing specific keywords, collects tracks from these playlists, and creates a new playlist featuring a balanced mix of popular and less popular tracks.
 
